@@ -1,0 +1,12 @@
+# SQLite database (can be rebuilt via load_data.py)
+*.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
