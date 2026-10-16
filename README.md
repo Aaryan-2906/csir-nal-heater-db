@@ -23,8 +23,6 @@ This project models the full lifecycle of a heater-geometry design space explora
 
 ## Showcase Queries (`queries.sql`)
 
-Seven interview-ready SQL queries demonstrating:
-
 1. **Window functions** — `RANK() OVER (PARTITION BY ...)` for best candidate per family.
 2. **Cross-table consistency check** — snapshot vs. live-computed feasibility rates.
 3. **Conditional aggregation** — train/test generalization gap via `CASE WHEN`.
